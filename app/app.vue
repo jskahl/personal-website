@@ -10,7 +10,7 @@
 
 <style scoped>
 div {
-    width: 100vw;
+    width: 100%;
     height: 100vh;
     background-color: #1e1e2e;
     display: flex;

@@ -2,3 +2,7 @@
     margin: 0;
     font-family: "Cascadia Code", sans-serif;  font-family: "Cascadia Code", sans-serif;
 }
+
+body {
+    overflow-y: hidden;
+}
